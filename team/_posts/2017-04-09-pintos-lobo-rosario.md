@@ -7,7 +7,7 @@ handle: rpintos
 nickname: Rosario
 science_names: [Pintos Lobo R]
 image: /assets/images/team/rosario-pintos-lobo.jpg
-alumni: false
+alumni: true
 
 # social
 cv: https://drive.google.com/file/d/1pOiiG8js0PX_aUk6chkCKFmTO0Xl3gng/view

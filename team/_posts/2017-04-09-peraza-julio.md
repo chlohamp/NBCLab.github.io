@@ -7,7 +7,7 @@ handle: jperaza
 nickname: JulioP
 science_names: [Peraza JA]
 image: /assets/images/team/julio-peraza.jpg
-alumni: false
+alumni: true
 
 # social
 cv: https://julioaperaza.github.io/cv/

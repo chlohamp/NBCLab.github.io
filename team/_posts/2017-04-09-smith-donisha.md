@@ -7,7 +7,7 @@ handle: donishasmith
 nickname: Donisha
 science_names: [Smith DD]
 image: /assets/images/team/donisha-smith.jpg
-alumni: false
+alumni: true
 
 # social
 cv: "https://docs.google.com/document/d/1I3UWsxO400DbDG1iUgHi5EoB-Xi1zSCnDaIH8LScvaU/edit?usp=sharing"

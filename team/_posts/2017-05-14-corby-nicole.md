@@ -7,7 +7,7 @@ handle:
 nickname:
 science_names: [Corby NM]
 image: /assets/images/team/corby-nicole.png
-alumni: false
+alumni: true
 
 # social
 cv:
