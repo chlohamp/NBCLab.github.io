@@ -10,7 +10,7 @@ image: /assets/images/team/alisha-loiseau.png
 alumni: false
 
 # social
-cv:
+cv: https://drive.google.com/file/d/1_FO61W6E4u4UgIMrC8-9L4slVVOwm2Ix/view?usp=sharing
 nih_biosketch:
 email: aloiseau@fiu.edu
 github: alishaloiseau
