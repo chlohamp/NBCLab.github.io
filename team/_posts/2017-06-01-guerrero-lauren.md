@@ -7,7 +7,7 @@ handle:
 nickname:
 science_names:
 image: /assets/images/team/guerrero-lauren.png
-alumni: false
+alumni: true
 
 # social
 cv:

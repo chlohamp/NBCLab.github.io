@@ -7,7 +7,7 @@ handle:
 nickname:
 science_names: [Mulet k]
 image: /assets/images/team/mulet-kristy.png
-alumni: false
+alumni: true
 
 # social
 cv:

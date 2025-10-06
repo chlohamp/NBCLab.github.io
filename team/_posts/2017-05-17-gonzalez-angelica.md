@@ -7,7 +7,7 @@ handle:
 nickname:
 science_names:
 image: /assets/images/team/gonzalez-angelica.png
-alumni: false
+alumni: true
 
 # social
 cv:

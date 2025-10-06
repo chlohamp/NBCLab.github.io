@@ -6,7 +6,7 @@ department: Psychology
 handle: bsutherland
 nickname: Benji
 science_names: [Sutherland B, Sutherland BD]
-image: /assets/images/team/benjelene-sutherland.jpg
+image: /assets/images/team/benji-sutherland.png
 alumni: false
 
 # social

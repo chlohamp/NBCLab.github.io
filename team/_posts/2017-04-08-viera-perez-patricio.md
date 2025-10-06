@@ -8,7 +8,7 @@ handle: pvieraperez
 nickname: Patricio
 science_names: [Viera Perez PM]
 image: /assets/images/team/patricio-viera-perez.jpg
-alumni: false
+alumni: true
 
 # social
 cv: https://drive.google.com/open?id=1AP7Eob5iH0oBAP-kGSgkO5_-vqFJpepa
