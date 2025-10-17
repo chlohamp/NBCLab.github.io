@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Liberty Allen
-position: Undergraduate Student
+position: Research Assistant
 department: Department of Psychology
 handle:
 nickname: Allen LA
