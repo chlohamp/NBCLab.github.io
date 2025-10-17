@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Alisha Loiseau
-position: Graduate Student
-department: Department of Psychology, Cognitive Neuroscience
+position: PhD Student
+department: Department of Psychology
 handle:
 nickname: Alisha
 science_names:

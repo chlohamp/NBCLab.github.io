@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Patricio Viera Perez
-position: PhD Student
+position: Postdoctoral Researcher
 department: Department of Psychology
 
 handle: pvieraperez
@@ -11,20 +11,20 @@ image: /assets/images/team/patricio-viera-perez.jpg
 alumni: true
 
 # social
-cv: https://drive.google.com/open?id=1AP7Eob5iH0oBAP-kGSgkO5_-vqFJpepa
+cv: https://fiudit-my.sharepoint.com/:w:/g/personal/pvier002_fiu_edu/Ebi0K1WqyuFDiQ2LdQX4L88BjE2R0Vqo6p7iVtPgf0WPdg?e=ToSQ3U
 nih_biosketch:
-email: pvier002@fiu.edu
-github: PatoViera
-orcid: 0000-0001-7980-5001
-osf: pha2g
+email: pvierape@fiu.edu
+github: https://github.com/PatoViera
+orcid: https://orcid.org/0000-0001-7980-5001
+osf: https://osf.io/pha2g/
 figshare:
 publons:
 researchgate:
 impactstory:
-scholar:
+scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=pmkZGH8AAAAJ
 site:
-twitter: pvierpeneuro
+twitter: https://twitter.com/pvierpeneuro
 
 ---
 
-Patricio is a first-year graduate student in the Department of Psychology at Florida International University, specializing in Cognitive Neuroscience. He completed his B.S. in Neuroscience from the University of Texas at Dallas and graduated with major honors. Patricio is interested in understanding how substance use influences the structural and functional connectivity between brain regions and how that affects higher cognitive functions using Diffusion Tensor Imaging (DTI) techniques. He is currently working on the Antecedents and Consequences of Electronic Nicotine Delivery Systems (ACE) Project, which examines the risk and protective factors leading to electronic nicotine systems (ENDS) usage among teenagers, alongside the impact of ENDS usage on the developing brain.
+Patricio is a Cognitive Neuroscience PhD graduate from Florida International University working as a post-doctoral fellow in the Neuroinformatics and Brain Connectivity Lab under Dr. Matthew T. Sutherland. Patricio's research focuses on assessing the structural and functional dynamics across brain networks that contribute towards substance use initiation and continuation behavior, integrating advanced neuroimaging techniques and clinically relevant behavioral assessments. Experienced in managing and conducting complex research studies, and skilled in statistical analysis and data management. Adept at mentoring and teaching with extensive experience in neuroscience and psychology courses. Committed to advancing the field through rigorous research, collaboration, and active participation in professional organizations, and passionate about promoting inclusion in academia.
